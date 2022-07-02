@@ -1,0 +1,46 @@
+Insertion Sort Execution Times:
+[size = 10000] Time elapsed -> 47 ms
+[size = 20000] Time elapsed -> 219 ms
+[size = 40000] Time elapsed -> 909 ms
+[size = 80000] Time elapsed -> 4198 ms
+[size = 160000] Time elapsed -> 17269 ms
+[size = 320000] Time elapsed -> 71752 ms
+
+Merge Sort Execution Times:
+[size = 10000] Time elapsed -> 11 ms
+[size = 20000] Time elapsed -> 29 ms
+[size = 40000] Time elapsed -> 48 ms
+[size = 80000] Time elapsed -> 100 ms
+[size = 160000] Time elapsed -> 189 ms
+[size = 320000] Time elapsed -> 399 ms
+
+Quick Sort Execution Times (Random Pivot):
+[size = 10000] Time elapsed -> 11 ms
+[size = 20000] Time elapsed -> 41 ms
+[size = 40000] Time elapsed -> 167 ms
+[size = 80000] Time elapsed -> 730 ms
+[size = 160000] Time elapsed -> 2621 ms
+[size = 320000] Time elapsed -> 11013 ms
+
+Insertion Sort Execution Times (Sorted Array Given):
+[size = 10000] Time elapsed -> 0 ms
+[size = 20000] Time elapsed -> 0 ms
+[size = 40000] Time elapsed -> 0 ms
+[size = 80000] Time elapsed -> 0 ms
+[size = 160000] Time elapsed -> 0 ms
+[size = 320000] Time elapsed -> 0 ms
+
+Merge Sort Execution Times (Sorted Array Given):
+[size = 10000] Time elapsed -> 15 ms
+[size = 20000] Time elapsed -> 36 ms
+[size = 40000] Time elapsed -> 68 ms
+[size = 80000] Time elapsed -> 140 ms
+[size = 160000] Time elapsed -> 272 ms
+[size = 320000] Time elapsed -> 541 ms
+
+Quick Sort Execution Times (Pivot as the First Element, Sorted Array Given):[size = 10000] Time elapsed -> 17 ms
+[size = 20000] Time elapsed -> 51 ms
+[size = 40000] Time elapsed -> 212 ms
+[size = 80000] Time elapsed -> 838 ms
+[size = 160000] Time elapsed -> 3189 ms
+[size = 320000] Time elapsed -> 11337 ms
